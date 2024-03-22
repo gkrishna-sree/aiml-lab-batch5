@@ -10,4 +10,7 @@ Assignment 2 <br/>
 [https://github.com/gkrishna-sree/aiml-lab-batch5/blob/main/assignment2.ipynb]<br/>
 
 Assignment 4 <br>
-[https://github.com/gkrishna-sree/aiml-lab-batch5/blob/main/assignment4.ipynb]
+[https://github.com/gkrishna-sree/aiml-lab-batch5/blob/main/assignment4.ipynb] <br/>
+
+Assignment 5 <br/>
+[https://github.com/gkrishna-sree/aiml-lab-batch5/blob/main/assignment5.ipynb]
