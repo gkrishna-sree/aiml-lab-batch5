@@ -17,3 +17,6 @@ Assignment 4 <br>
 
 Assignment 5 <br/>
 [https://github.com/gkrishna-sree/aiml-lab-batch5/blob/main/assignment5.ipynb] <br/>
+
+Assignment 6 <br/>
+[https://github.com/gkrishna-sree/aiml-lab-batch5/blob/main/assignment6.ipynb] <br/>
